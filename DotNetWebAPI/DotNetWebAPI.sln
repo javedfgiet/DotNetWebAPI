@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeDataAccess", "Emplo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApplication", "ClientApplication\ClientApplication.csproj", "{14520D2E-A19F-4E17-AACD-8FCF344463A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeServiecTokenAuth", "EmployeeServiecTokenAuth\EmployeeServiecTokenAuth.csproj", "{9CA2F24E-42BF-4DE7-AA66-9C9B68101274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiRouting", "WebApiRouting\WebApiRouting.csproj", "{6DE5EA0F-9089-4B57-982F-3BBEA938893D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{14520D2E-A19F-4E17-AACD-8FCF344463A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14520D2E-A19F-4E17-AACD-8FCF344463A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14520D2E-A19F-4E17-AACD-8FCF344463A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CA2F24E-42BF-4DE7-AA66-9C9B68101274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA2F24E-42BF-4DE7-AA66-9C9B68101274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA2F24E-42BF-4DE7-AA66-9C9B68101274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA2F24E-42BF-4DE7-AA66-9C9B68101274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE5EA0F-9089-4B57-982F-3BBEA938893D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE5EA0F-9089-4B57-982F-3BBEA938893D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE5EA0F-9089-4B57-982F-3BBEA938893D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE5EA0F-9089-4B57-982F-3BBEA938893D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
